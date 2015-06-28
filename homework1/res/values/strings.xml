@@ -1,0 +1,14 @@
+<resources>
+
+    <string name="app_name">真心话</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="addname">添加</string>
+    <string name="del_name">删除</string>
+    <string name="zhen_xin_hua">真心话</string>
+    <string name="da_mao_xian">大冒险</string>
+    <string name="btn_continue">继续</string>
+    <string name="btn_start">开始</string>
+
+</resources>
