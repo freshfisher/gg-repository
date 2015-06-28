@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, MP3PlayerActivity!</string>
+    <string name="app_name">MP3Player</string>
+    <string name="text">歌曲名：琵琶语"        "艺术家：林海</string>
+</resources>
